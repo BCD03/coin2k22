@@ -22,7 +22,7 @@ author: jay24004
 navbar-links:
   About Coin: "aboutme"
   Events:
-    - SPELL BEE: "https://google.com"
+    - SPELL BEE: "events/spellbee"
     - BRAIN HACK: "events/brain_hack"
     - KNOW YOUR CIRCUIT(KYC): "https://google.com"
     - Mαth∫etΣs: "https://google.com"
@@ -217,7 +217,7 @@ footer-hover-col: "#0085A1"
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
-#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
+reCaptcha: true   # (optional, set these parameters in `staticman.yml` as well) 
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
