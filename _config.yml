@@ -24,7 +24,7 @@ navbar-links:
   Events:
     - SPELL BEE: "events/spellbee"
     - BRAIN HACK: "events/brain_hack"
-    - KNOW YOUR CIRCUIT(KYC): "https://google.com"
+    - KNOW YOUR CIRCUIT(KYC): "events/know_your_circuit"
     - Mαth∫etΣs: "https://google.com"
     - Strategic Marketing: "https://google.com"
     - SHERLOCK HOLMES: "https://google.com"
